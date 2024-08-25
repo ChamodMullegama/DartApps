@@ -15,6 +15,7 @@ class _HomePageState extends State<HomePage> {
         child: SingleChildScrollView(
           child: Center(
             child: Text("add new page"),
+
           ),
         ),
       ),
