@@ -47,7 +47,7 @@ class _progessCardState extends State<progessCard> {
             ),
             LinearProgressIndicator(
               value: widget
-                  .progressValue, // Adjust this value to set the  
+                  .progressValue, // Adjust this value to   
               backgroundColor:
                   kGradientBottomColor, // Grey color for unfilled region
               valueColor: const AlwaysStoppedAnimation<Color>(Colors.white),
